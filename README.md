@@ -1,6 +1,7 @@
 # Hi there i'm Greg 👋 
 - 🔭 I’m currently doing internship on Bina Nusantara University as a Mobile Apps Developer
-- 🌱 I’m currently learning Android Studio (java) and UI/UX implementation 
+- 🌱 I’m currently learning Android Studio (java) and UI/UX implementation
+- 📫 I'm currently working on the project kedaireka
 - ⚡ These are the applications I am currently proficient in:
 <img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img align="left" alt=Android Studio src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
