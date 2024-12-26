@@ -4,7 +4,7 @@
 <img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img align="left" alt=Android Studio src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
-## #30NitesOfCode:
+##30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@gregoriusgrd/30-nites-of-code)  
   ![@gregoriusgrd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gregoriusgrd)
 <!--
