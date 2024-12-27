@@ -1,8 +1,10 @@
-# Hi there i'm Greg 👋 
-- 🌱 I’m currently learning Frontend Developer (HTML, CSS, Javascript
-##30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@gregoriusgrd/30-nites-of-code)  
-  ![@gregoriusgrd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gregoriusgrd)
+# Hi there I'm Greg 👋 
+- 🌱 I’m currently learning Frontend Developer (HTML, CSS, Javascript)
+
+## 30NitesOfCode:
+[Check out my progress!](https://www.codedex.io/@gregoriusgrd/30-nites-of-code)
+![@gregoriusgrd #30NitesOfCode](https://www.codedex.io/api/petStatus?user=gregoriusgrd)
+
 
 
 <!--
