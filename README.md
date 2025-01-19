@@ -16,4 +16,3 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gregoriusgrd&theme=tokyonight&hide_border=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=gregoriusgrd)](https://git.io/streak-stats)
