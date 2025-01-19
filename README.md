@@ -16,5 +16,3 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gregoriusgrd&theme=tokyonight&hide_border=true)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
