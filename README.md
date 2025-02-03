@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/532016cc-e161-4444-90b6-59dcda17a4f0" alt="pixel-jeff-mario" height="250"/>
 </div>
 
-<h1 align="center">Hi👋, I'm Greg</h1>
+<h1 align="center">Hi 👋, I'm Greg</h1>
 
 ## 💫 About Me:
 🎓 I recently graduated with a Bachelor's degree in Computer Science from Binus University.<br>
