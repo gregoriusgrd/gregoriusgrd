@@ -8,7 +8,7 @@
 🎓 I recently graduated with a Bachelor's degree in Computer Science from Binus University.<br>
 🌱 I’m currently learning frontend development.
 
-## 🌐 Socials:
+## 📲 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorius-geraldin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gregoriusgrd) 
 
 ## Portfolio
