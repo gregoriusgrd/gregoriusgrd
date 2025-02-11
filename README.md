@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 
 ## 💫 About Me:
-🎓 I recently graduated with a Bachelor's degree in Computer Science from Binus University.<br>
+🎓 I recently graduated with a Bachelor's in Computer Science from Binus University.<br>
 🌱 I’m currently learning frontend development.
 
 ## 📲 Socials:
