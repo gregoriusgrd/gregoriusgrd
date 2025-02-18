@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 🎓 I recently graduated with a Bachelor's in Computer Science from Bina Nusantara University<br>
-🌱 I’m currently learning frontend development.
+🌱 I’m currently learning frontend.
 
 ## 📲 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorius-geraldin)
