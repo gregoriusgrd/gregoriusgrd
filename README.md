@@ -9,8 +9,7 @@
 🌱 I’m currently learning frontend development.
 
 ## 📲 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorius-geraldin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorius-geraldin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorius-geraldin) 
 
 ## 🌐 Portfolio
 <a href="https://gregoriusgrd.com">Portfolio Website</a>
