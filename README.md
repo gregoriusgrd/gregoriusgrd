@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/532016cc-e161-4444-90b6-59dcda17a4f0" alt="pixel-jeff-mario" height="250"/>
 </div>
@@ -7,6 +8,7 @@
 ## 💫 About Me
 🎓 I recently graduated with a Bachelor's in Computer Science from Bina Nusantara University<br>
 🌱 I’m currently learning web development.
+-->
 
 <!--
 ## 📲 Socials
